@@ -4,3 +4,6 @@
 [submodule "livrableB"]
 	path = livrableB
 	url = https://github.com/ibrahimaddou1/web_temps_reel_protocol_livrableB
+[submodule "livrableC"]
+	path = livrableC
+	url = https://github.com/ibrahimaddou1/web_temps_reel_protocol_livrableC
